@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foot-project/static/css/main.48faed82.css",
+    "main.js": "/foot-project/static/js/main.16fc2888.js",
+    "index.html": "/foot-project/index.html",
+    "main.48faed82.css.map": "/foot-project/static/css/main.48faed82.css.map",
+    "main.16fc2888.js.map": "/foot-project/static/js/main.16fc2888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48faed82.css",
+    "static/js/main.16fc2888.js"
+  ]
+}
